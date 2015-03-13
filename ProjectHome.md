@@ -1,0 +1,1 @@
+Users employ symbolic messages to retrieve and dump climate data from and into repositories. Driven by Ruby's DRb mechanism
